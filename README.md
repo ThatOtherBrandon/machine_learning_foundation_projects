@@ -36,8 +36,8 @@ Understanding key evaluation metrics:
 ### 4. **Clear Documentation**  
 Proper documentation is essential for reproducibility and collaboration. These are some of the projects that I completed in my undergrad take a look! 
 - **Project Examples**:  
-  - [Project 1:voting behavior predictor](#[project-1-predicting-housing-prices](https://colab.research.google.com/drive/1gJJJ3ywcjCHdWgMrJwR3Qc8Iz_rW2jWV?usp=sharing))  
-  - [Project 2: Wine quality prediction](#[project-2-sentiment-analysis-on-product-reviews](https://colab.research.google.com/drive/1leSZP60Q6W1mzMNxOGPKRkKLgmISSsIm?usp=sharing))  
+  - [Project 1:voting behavior predictor](https://colab.research.google.com/drive/1gJJJ3ywcjCHdWgMrJwR3Qc8Iz_rW2jWV?usp=sharing)
+  - [Project 2: Wine quality prediction](https://colab.research.google.com/drive/1leSZP60Q6W1mzMNxOGPKRkKLgmISSsIm?usp=sharing)
 
 ---
 
